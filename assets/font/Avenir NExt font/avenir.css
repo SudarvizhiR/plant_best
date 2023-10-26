@@ -1,0 +1,87 @@
+/* Main Font-family */
+
+@font-face {
+    font-family: 'AvenirNext-04';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-Bold-01.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-03';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-DemiBold-03.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-02';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-Medium-06.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-01';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-Regular-08.woff2?v=3.19") format("woff2");
+}
+
+/* //Main Font-family */
+
+@font-face {
+    font-family: 'AvenirNext-BoldItalic-02';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-BoldItalic-02.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-DemiBoldItalic-04';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-DemiBoldItalic-04.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-Italic-05';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-Italic-05.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-MediumItalic-07';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-MediumItalic-07.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-Heavy-09';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-Heavy-09.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-HeavyItalic-10';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-HeavyItalic-10.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-UltraLight-11';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-UltraLight-11.woff2?v=3.19") format("woff2");
+}
+
+@font-face {
+    font-family: 'AvenirNext-UltraLightItalic-12';
+    font-style: normal;
+    font-display: swap;
+    src: url("AvenirNext-UltraLightItalic-12.woff2?v=3.19") format("woff2");
+}
